@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "MONTAGEM XONADA",
+  "base_artist": "MXZI",
+  "createdAt": "2026-02-09T11:19:12.004845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA - Sped Up",
+      "artist": "MXZI",
+      "has_synced": false,
+      "path": "select/01_MONTAGEM_XONADA_-_Sped_Up_MXZI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (Paused)",
+      "artist": "MXZI",
+      "has_synced": true,
+      "path": "select/02_MONTAGEM_XONADA_(Paused)_MXZI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA",
+      "artist": "MXZI",
+      "has_synced": true,
+      "path": "select/03_MONTAGEM_XONADA_MXZI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA - Slowed",
+      "artist": "MXZI",
+      "has_synced": false,
+      "path": "select/04_MONTAGEM_XONADA_-_Slowed_MXZI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA - Super Slowed",
+      "artist": "MXZI",
+      "has_synced": false,
+      "path": "select/05_MONTAGEM_XONADA_-_Super_Slowed_MXZI.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (Slowed)",
+      "artist": "DJ Javi26, DJ Samir, MXZI",
+      "has_synced": false,
+      "path": "select/06_MONTAGEM_XONADA_(Slowed)_DJ_Javi26,_DJ_Samir,_MXZI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA",
+      "artist": "MXZI, Dj Samir and DJ Javi26",
+      "has_synced": true,
+      "path": "select/07_MONTAGEM_XONADA_MXZI,_Dj_Samir_and_DJ_Javi26.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA",
+      "artist": "MXZI, Dj Samir, DJ Javi26",
+      "has_synced": true,
+      "path": "select/08_MONTAGEM_XONADA_MXZI,_Dj_Samir,_DJ_Javi26.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA",
+      "artist": "MXZI, Dj Samir 및 DJ Javi26",
+      "has_synced": true,
+      "path": "select/09_MONTAGEM_XONADA_MXZI,_Dj_Samir_및_DJ_Javi26.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (Brazilian Funk + Phonk) MXZI, DJ SAMIR, DJ JAVI26",
+      "artist": "Dj Samir",
+      "has_synced": true,
+      "path": "select/10_MONTAGEM_XONADA_(Brazilian_Funk_+_Phonk)_MXZI,_DJ_SAMIR,_DJ_JAVI26_Dj_Samir.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (Sped Up)",
+      "artist": "DJ Javi26, DJ Samir, MXZI",
+      "has_synced": true,
+      "path": "select/11_MONTAGEM_XONADA_(Sped_Up)_DJ_Javi26,_DJ_Samir,_MXZI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (Super Slowed)",
+      "artist": "MXZI, Dj Samir, DJ Javi26",
+      "has_synced": true,
+      "path": "select/12_MONTAGEM_XONADA_(Super_Slowed)_MXZI,_Dj_Samir,_DJ_Javi26.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA",
+      "artist": "MXZI, Dj Samir & DJ Javi26",
+      "has_synced": true,
+      "path": "select/13_MONTAGEM_XONADA_MXZI,_Dj_Samir_&_DJ_Javi26.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (Super Slowed)",
+      "artist": "MXZI,Dj Samir,DJ Javi26",
+      "has_synced": true,
+      "path": "select/14_MONTAGEM_XONADA_(Super_Slowed)_MXZI,Dj_Samir,DJ_Javi26.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (8D)",
+      "artist": "MXZI, DJ Samir, DJ Javi26",
+      "has_synced": true,
+      "path": "select/15_MONTAGEM_XONADA_(8D)_MXZI,_DJ_Samir,_DJ_Javi26.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA - Ultra Slowed",
+      "artist": "MXZI",
+      "has_synced": true,
+      "path": "select/16_MONTAGEM_XONADA_-_Ultra_Slowed_MXZI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (Super Slowed)",
+      "artist": "MXZI, Dj Samir and DJ Javi26",
+      "has_synced": true,
+      "path": "select/17_MONTAGEM_XONADA_(Super_Slowed)_MXZI,_Dj_Samir_and_DJ_Javi26.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA (Super Slowed)",
+      "artist": "MXZI",
+      "has_synced": false,
+      "path": "select/18_MONTAGEM_XONADA_(Super_Slowed)_MXZI.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "MONTAGEM XONADA",
+      "artist": "MXZI, Dj Samir y DJ Javi26",
+      "has_synced": true,
+      "path": "select/19_MONTAGEM_XONADA_MXZI,_Dj_Samir_y_DJ_Javi26.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONTAGEM XONADA",
+      "artist": "MXZI, Dj Samir, DJ Javi26",
+      "has_synced": false,
+      "path": "select/pl_01_MONTAGEM_XONADA_MXZI,_Dj_Samir,_DJ_Javi26.txt"
+    }
+  ]
+}
